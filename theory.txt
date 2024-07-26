@@ -1,0 +1,29 @@
+<div id="wrapper">
+        <p>
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph. <br>
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph. <br>
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph. <br>
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph.
+            This is a simple paragraph.This is a simple paragraph. <br>
+        </p>
+    </div>
+    =============================
+    #wrapper{
+    border: 1px solid red;
+    width: 600px;
+    height: 150px;
+    /* overflow: hidden ; */  hidden thakbe , dekha jabe na.....
+    overflow: scroll;  >>> full watching by scrolling
+
+}
